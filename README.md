@@ -8,14 +8,9 @@ If you want to run this I recommend following the tutorial. You can also try the
 ## Required:
 Node version 14.x
 
-## Clone this repo
-```bash
-git clone https://github.com/vukrosic/next14-instant-messaging-app
-```
-
 ## Install packages
 ```bash
-cd nextjs14-instant-messaging-app & npm install
+npm install
 ```
 
 ## Run Convex
