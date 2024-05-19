@@ -8,7 +8,7 @@ export const Loading = () => {
                 alt="logo"
                 width={200}
                 height={200}
-                className="animate-pulse duration-100 m-auto"
+                className="animate-pulse duration-700 m-auto"
             />
         </main>
     )
