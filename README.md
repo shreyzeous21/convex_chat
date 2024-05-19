@@ -2,8 +2,6 @@ This is code for the following tutorial:
 
 ![ChatGPT Clone](https://github.com/vukrosic/next14-instant-messaging-app/blob/main/public/thumbnail.png?raw=true)
 
-[VIDEO TUTORIAL](https://youtu.be/DaJoZ3awm5o)
-
 
 If you want to run this I recommend following the tutorial. You can also try the following:
 
